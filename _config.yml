@@ -41,8 +41,8 @@ header:
   date-location: 7 - 10 November / Copernicus Science Centre, Warsaw, Poland
   # Countdown settings
   countdown-date: "2024-11-07T08:00:00"
-  countdown-overwrite: 'Thank you for participating!</br>Find the photos <i class="fa-solid fa-camera-retro"></i> <a href="/photos">here</a>'
-  arrow-url: "#tickets"
+  countdown-overwrite: 'Thank you for participating!</br>Find the <a class="page-scroll" href="#aftermovie"> aftermovie and photos <i class="fa-solid fa-photo-film"></i></a> below<br>and we hope to see you <a href="https://conference.mlinpl.org">next year!</a>'
+  arrow-url: "#aftermovie"
   # Meetup countdown settings
   meetup-countdown-date: "2024-06-20T17:45:00"
 
