@@ -23,20 +23,20 @@ Rules of contributed talks, posters, student research workshop acceptance to the
 ## § 2. Entities involved in the organization of the Competition
 
 1. The organizer of the Competition is **_ML in PL Association_** (hereinafter, the "Organizer"), who has appointed a competition’s committee.
-2. The Organizer will appoint an awards committee (hereinafter the "Commission") that might include, i.a., Advisory Board members (<https://conference.mlinpl.org/#advisory-board>), Invited Speakers (<https://conference.mlinpl.org/#invited-speakers>), Student Research Workshop and Organizer representants (<https://conference.mlinpl.org/#organizers>).
+2. The Organizer will appoint an awards committee (hereinafter the "Commission") that might include, i.a., Advisory Board members ({{ "/#advisory-board" | absolute_url }}), Invited Speakers ({{ "/#invited-speakers" | absolute_url }}), Student Research Workshop and Organizer representants ({{ "/#organizers" | absolute_url }}).
 
 
 ## § 3. Conditions for taking part in the Competition
 
 1. Only natural persons, who have full capacity for legal acts on the territory of Poland can participate in the Competition.
 2. In order to participate in the Competition, it is necessary to agree to the provisions of the Terms of Participation and to get acquainted with the processing of personal data referred in the Privacy Policy.
-3. Participation in the Competition and related data sharing is completely voluntary. The person who joined the Competition in order to present a talk or poster (hereinafter, the "Participant") is bound by the [Terms of Participation](https://conference.mlinpl.org/terms-of-participation).
+3. Participation in the Competition and related data sharing is completely voluntary. The person who joined the Competition in order to present a talk or poster (hereinafter, the "Participant") is bound by the [Terms of Participation]({{ "/terms-of-participation" | absolute_url }}).
 
 
 ## § 4. The rules and the course of the Competition
 
 1. The registration for the Competition will be open from 1 May 2024 and end on 31 August 2024 (hereinafter, the "Duration of the Competition").
-2. Registration for the Competition takes place via the registration form in the Call for Contribution section available at [https://conference.mlinpl.org/](http://conference.mlinpl.org/) (hereinafter, the "Website").
+2. Registration for the Competition takes place via the registration form in the Call for Contribution section available at [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}) (hereinafter, the "Website").
 3. In order to participate in the Competition, the Participant is obliged to submit the registration form on the Website through which the Participant provides:
    1. his/her personal data,
    2. his/her preference towards presenting a talk at the Main Conference or Student Research Workshop
@@ -91,7 +91,7 @@ Rules of contributed talks, posters, student research workshop acceptance to the
 
 ## § 8. Processing of personal data
 
-1. The details concerning the processing of the Participant’s personal data are described in the [Privacy Policy](https://conference.mlinpl.org/privacy-policy).
+1. The details concerning the processing of the Participant’s personal data are described in the [Privacy Policy]({{ "/privacy-policy" | absolute_url }}).
 
 
 ## § 9. Complaints

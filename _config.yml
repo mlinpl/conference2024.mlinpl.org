@@ -27,8 +27,8 @@ description: >-
   ML in PL Conference 2024 is an event focused on the best of Machine Learning both in academia and in business.
 main-image: images/mlinpl-conference-2024-logo-black.png
 twitter-username: "@MLinPL"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://conference.mlinpl.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mlinpl_submodules_poc/2024" # the subpath of your site, e.g. /blog
+url: "https://mlinpl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: ML in PL Association
   url: https://mlinpl.org

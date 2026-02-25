@@ -12,10 +12,10 @@ permalink: /terms-of-participation
 1. Whenever the terms defined hereunder are used in Terms of Participation, they should be understood as follows:
    1. {{ site.inline-logo }} – a conference carried out by the Organizer from 7 to 10 November 2024 at Copernicus Science Centre at Wybrzeże Kościuszkowskie 20 street, 00-390.
    2. **Organizer** – ML in PL Association, Plac Bankowy 2, Warszawa 02-505 KRS: 0000754960, REGON: 381658081, NIP: 1182183164.
-   3. **Conference** - a series of Lectures conducted by experts in the field of {{ site.inline-logo }} topics, described at [www.conference.mlinpl.org](http://www.conference.mlinpl.org), which takes place from 7 to 10 of November 2024.
+   3. **Conference** - a series of Lectures conducted by experts in the field of {{ site.inline-logo }} topics, described at [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}), which takes place from 7 to 10 of November 2024.
    4. **Registration Form** – Internet registration form available on the Conference website from 14 September which is submitted by the Candidate in order to qualify for the Conference.
    5. **Conference Pass -** a ticket sent as a pdf file to the e-mail addresses of the Participants, confirming the right to participate in the Conference.
-   6. **Committee** – a group of organizers of the Conference and the Tutorials indicated on the Conference website at [www.conference.mlinpl.org](http://www.conference.mlinpl.org) and other members of the personnel of the Organizer.
+   6. **Committee** – a group of organizers of the Conference and the Tutorials indicated on the Conference website at [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}) and other members of the personnel of the Organizer.
    7. **Early Bird Period** – the period from 1 August until 31 August, during which the Candidates can register for the Conference through the Early Bird Registration Form for a lower Conference Pass price.
    8. **Standard Period** – the period from 9 September, during which the Candidates can register for the Conference through the Registration Form; during the Standard Period the Organizer can introduce Late Ticket Period, during which the price of a Conference Pass price will be increased.
    9. **Candidate** – a natural person who submitted the Registration Form in order to qualify to the Conference .
@@ -50,7 +50,7 @@ permalink: /terms-of-participation
 3. **CONDITIONS FOR REGISTRATION IN THE STANDARD PERIOD**
    1. For the Standard Period, the qualification of a Candidate for a Conference will depend on the order of submission of the Registration Form together with making a payment (first come-first served).
    2. After submission of the Registration Form and finalizing the payment, the Organizer will send Candidates an e-mail message containing the Conference Pass under the condition that the Candidate managed to pay the fee before other Candidates.
-   3. If the maximum number of Participants is reached, the Organiser will inform about the completion of the Standard Period registration in particular by placing an announcement on the website [www.conference.mlinpl.org](http://www.conference.mlinpl.org) and by closing the possibility of submission of the Registration Form.
+   3. If the maximum number of Participants is reached, the Organiser will inform about the completion of the Standard Period registration in particular by placing an announcement on the website [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}) and by closing the possibility of submission of the Registration Form.
 
 4. **REGISTRATION FOR THE LECTURES**
    1. For safety reasons, the Organizer shall determine internally the maximum number of Participants at a given Lecture.
@@ -58,7 +58,7 @@ permalink: /terms-of-participation
    3. Due to the limited number of Lecture participants, the Organizer does not guarantee the possibility of taking part in a specific Lecture.
 
 ## § 3. PAYMENTS
-   1. The amount of fee for Candidates registering to the Conference and Tutorials is going to be presented on the website at the [www.conference.mlinpl.org](http://www.conference.mlinpl.org) address.
+   1. The amount of fee for Candidates registering to the Conference and Tutorials is going to be presented on the website at the [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}) address.
    2. The amount of fee will differ depending on: the date of submitting the Registration Form (the fee might depend on the period, such as Early Bird Period), whether the Candidate is a student or not and whether they are willing to participate in the Conference or the Tutorials.
    3. For the avoidance of doubts, ‘student’ shall be understood as a person who possesses (a) for students from Poland - a valid student ID card, issued as specified by the Minister of National Education (MEN-I/1 or MEN-I/2 or MEN-I/50/2, MEN-I/50a/2 or MEN-I/50b/2) or the Minister of Culture and National Heritage (ART/100 or ART/102); and (b) for foreign students - a valid ISIC (International Student Identity Card) for a given calendar year.
    4. The Candidate shall pay the fee due to Organizer to the bank account indicated in the e-mail sent by the Organizer or by other electronical means indicated by the Organizer (e.g. PayU or PayPal).
@@ -72,7 +72,7 @@ permalink: /terms-of-participation
       1. the right to Participate in the Tutorials in accordance with the Terms of Participation;
       2. a hot meal served on the day of the Tutorials;
       3. the provision of snacks and hot drinks during coffee breaks taking place during the day of Tutorials.
-   3. The programme of the Conference and Tutorials will be available on the website at [www.conference.mlinpl.org](http://www.conference.mlinpl.org).
+   3. The programme of the Conference and Tutorials will be available on the website at [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}).
 
 ## § 5. CONSENT TO THE USE OF PARTICIPANT’S IMAGE
    1. During the Conference, the Organizer may conduct photo sessions and film the Conference for the purposes of broadcasting in the mass media (television, radio, Internet, press) or for the purposes of documentation, promotion, advertising of the Organizer and other persons indicated by the Organizer.
